@@ -1,0 +1,1 @@
+{"name":"Local: Unique lines","url":"/home/kai1115/code/GPE/Unique lines.cpp","tests":[{"id":1771092420314,"input":"2\n7 0 0 1 1 2 2 3 3 4 4 6 6 0 3\n5 0 0 1 1 1 -1 -1 1 -1 -1","output":"7\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/kai1115/code/GPE/Unique lines.cpp","group":"local","local":true}

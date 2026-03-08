@@ -1,0 +1,1 @@
+{"name":"Local: Sumsets","url":"/home/kai1115/code/GPE/Sumsets.cpp","tests":[{"id":1771190265542,"input":"5\n2 \n3 \n5 \n7 \n12\n5\n2 \n16 \n64 \n256 \n1024\n0","output":"12\nno solution"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/kai1115/code/GPE/Sumsets.cpp","group":"local","local":true}

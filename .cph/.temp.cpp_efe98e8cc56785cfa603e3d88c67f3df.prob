@@ -1,1 +1,1 @@
-{"name":"Local: temp","url":"/home/kai1115/code/GPE/temp.cpp","tests":[{"id":1762094260636,"input":"1 6\n3 10\n3 14","output":"3\n5\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/kai1115/code/GPE/temp.cpp","group":"local","local":true}
+{"name":"Local: temp","url":"/home/kai1115/code/GPE/temp.cpp","tests":[{"id":1762094260636,"input":"hello","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/kai1115/code/GPE/temp.cpp","group":"local","local":true}
