@@ -1,0 +1,1 @@
+{"name":"Local: Maximum Product","url":"/home/kai1115/code/GPE/Maximum Product.cpp","tests":[{"id":1773051406298,"input":"3\n2 4 -3\n\n5\n2 5 -1 2 -1","output":"Case #1: The maximum product is 8.\n\nCase #2: The maximum product is 20."}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/kai1115/code/GPE/Maximum Product.cpp","group":"local","local":true}

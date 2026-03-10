@@ -1,0 +1,1 @@
+{"name":"Local: A Mid-summer Night's Dream","url":"/home/kai1115/code/GPE/A Mid-summer Night's Dream.cpp","tests":[{"id":1772956185555,"input":"2\n10\n10\n4\n1\n2\n2\n4","output":"10 2 1\n2 2 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/kai1115/code/GPE/A Mid-summer Night's Dream.cpp","group":"local","local":true}

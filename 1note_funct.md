@@ -22,19 +22,7 @@ auto &p; // Pointer 可以改值
 auto p; // 從原本那裡copy一份資料，不能改值
 ```
 
-## reverse string
-```c++
-#include <algorithm>
-str.reverse(str.begin(),str.end());
-```
 
-## substr
-```c++
-#include <string>
-string s = "hello";
-cout << s.substr(1,3) << endl; // 從index 1開始印3個字元 --> ell 
-cout << s.substr(1) << endl; // 從index 1開始印到底 --> ello 
-```
 
 ## round
 ```c++
@@ -66,3 +54,5 @@ string str = to_string(n);
 #include <iomanip>
 cout << setw(4) << sth; // 用寬度4輸出
 ```
+
+## 二維vector
