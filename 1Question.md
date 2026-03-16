@@ -63,11 +63,17 @@ DP、錢表示方式
 ### Cola
 簡單數學題
 
-### The Trip
-分錢
+## 3/16
 
-[NOTE] 
-因為有可能會除
+
+
+## DP
+### Cutting Sticks 
+### Tight Word
+
+
+
+
 
 ### Disk Tree
 Trie、字串分割、字典序 DFS 輸出
